@@ -1,0 +1,8 @@
+{
+  "name": "海污緊急應變人員清冊管理系統_2.1",
+  "description": "提供EM海污緊急應變系統之行政作業，用於數位化管理與統計全國應變訓練人員之受訓紀錄清冊。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
